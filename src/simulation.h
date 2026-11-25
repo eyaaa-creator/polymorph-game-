@@ -1,0 +1,10 @@
+#ifndef SIMULATION_H
+#define SIMULATION_H
+
+#define SCREEN_WIDTH 1200
+#define SCREEN_HEIGHT 800
+#define CELL_SIZE 16
+#define COLS (SCREEN_WIDTH / CELL_SIZE)
+#define ROWS (SCREEN_HEIGHT / CELL_SIZE)
+
+#endif
